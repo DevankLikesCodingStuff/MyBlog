@@ -22,7 +22,7 @@ input
     border-style: ridge;
 }
 .movie_head{
-    font-size: 40px;
+    font-size: 30px;
     border:4px;
     width: 100%;
     display: inline-block;
@@ -47,4 +47,19 @@ input
 #Photo{
     width: 30%;
     height: 30%;
+}
+.spacebook{
+    display: inline-block;
+}
+.book{
+    cursor: pointer;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.disc_space{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
 }
